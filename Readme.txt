@@ -1,5 +1,5 @@
 Github URL:
-https://github.com/sonuahluwalia/sporty-shoes.git
+https://github.com/t2dstudio/sporty-shoes-rest-api.git
 
 Requirements:
 1. Admin should be able to login/logout - done
